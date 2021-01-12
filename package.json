@@ -1,0 +1,22 @@
+{
+  "name": "test_demo",
+  "version": "1.0.0",
+  "description": "cypress training",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cy_training"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "kirill",
+  "license": "ISC"
+}
